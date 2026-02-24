@@ -1,0 +1,7 @@
+Model,MAE,RMSE,MAPE,R2
+Ridge Regression,49.54,60.99,4.0,0.8322
+Linear Regression,49.26,61.2,3.98,0.8311
+XGBoost,55.55,70.89,4.37,0.7734
+Gradient Boosting,56.09,72.0,4.43,0.7662
+Random Forest,59.38,75.23,4.7,0.7448
+LSTM,101.59,135.39,7.86,0.1575
